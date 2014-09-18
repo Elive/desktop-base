@@ -15,7 +15,7 @@
    id="svg5507"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Documento nuevo 5">
+   sodipodi:docname="elive-wallpaper-generic-grub.svg">
   <defs
      id="defs5509">
     <linearGradient
@@ -57,8 +57,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="267.90936"
-     inkscape:cy="224.96826"
+     inkscape:cx="277.00073"
+     inkscape:cy="216.88704"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,7 +80,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,7 +106,7 @@
      id="layer1"
      transform="translate(0,-572.36218)">
     <g
-       transform="matrix(0.52474151,0,0,0.52474151,356.04688,778.30506)"
+       transform="matrix(0.42402434,0,0,0.52474151,414.59769,778.30506)"
        id="g5489"
        style="opacity:0.75;fill:#c9c8c9;fill-opacity:1;display:inline;overflow:visible">
       <g
