@@ -37,20 +37,20 @@
    inkscape:window-height="1055"
    id="namedview2163"
    showgrid="false"
-   inkscape:zoom="1.048875"
-   inkscape:cx="808.1594"
-   inkscape:cy="671.4892"
+   inkscape:zoom="0.74166663"
+   inkscape:cx="922.60286"
+   inkscape:cy="581.61966"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
    inkscape:current-layer="Layer_1" />
 <rect
-   x="-339"
-   y="-316.988"
-   fill="#23353D"
+   x="-312.03369"
+   y="-314.29138"
    width="2600"
    height="1708.988"
-   id="rect2" />
+   id="rect2"
+   style="fill:#23353d" />
 <ellipse
    opacity="0.2"
    fill="#2B505B"
@@ -7627,4 +7627,26 @@
    style="image-rendering:optimizeQuality"
    preserveAspectRatio="none"
    height="116.24249"
-   width="116.24249" /></svg>
+   width="116.24249" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80.29833984px;line-height:125%;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.34297521;stroke:none;stroke-width:6.69163179px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="928.15948"
+   y="719.27069"
+   id="text1879"
+   transform="scale(1.0329292,0.96812056)"><tspan
+     sodipodi:role="line"
+     id="tspan1877"
+     x="928.15948"
+     y="719.27069"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80.29833984px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.34297521;stroke-width:6.69163179px">Elive</tspan></text>
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot1881"
+   style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:12px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+     id="flowRegion1883"><rect
+       id="rect1886"
+       width="20.22472"
+       height="13.483147"
+       x="852.13489"
+       y="680.89886" /></flowRegion><flowPara
+     id="flowPara1888"></flowPara></flowRoot></svg>
