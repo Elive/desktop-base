@@ -67,7 +67,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
             /usr/share/desktop-base/$theme-theme $priority
     done << EOF
 futureprototype 50
-moonlight 40
+moonlight 80
 softwaves 40
 lines 40
 joy 40
@@ -90,7 +90,7 @@ EOF
             /usr/share/desktop-base/$theme-theme/wallpaper/contents/images/$filename $priority
     done << EOF
 futureprototype 1920x1080.svg 65
-moonlight 1920x1080.svg 65
+moonlight 1920x1080.svg 80
 softwaves 1024x768.svg 50
 softwaves 1280x720.svg 50
 softwaves 1280x800.svg 50
@@ -138,7 +138,7 @@ EOF
             /usr/share/desktop-base/$theme-theme/wallpaper/gnome-background.xml $priority
     done << EOF
 futureprototype 40
-moonlight 30
+moonlight 80
 softwaves 30
 lines 30
 joy 30
@@ -163,7 +163,7 @@ EOF
             /usr/share/desktop-base/$theme-theme/lockscreen/gnome-background.xml $priority
     done << EOF
 futureprototype 40
-moonlight 30
+moonlight 80
 softwaves 30
 lines 30
 joy 30
@@ -186,7 +186,7 @@ EOF
             /usr/share/desktop-base/$theme-theme/wallpaper $priority
     done << EOF
 futureprototype 40
-moonlight 30
+moonlight 80
 softwaves 30
 lines 30
 joy 30
@@ -208,7 +208,7 @@ EOF
             /usr/share/desktop-base/$theme-theme/login/$background $priority
     done << EOF
 futureprototype background.svg 40
-moonlight background.svg 40
+moonlight background.svg 80
 softwaves background.svg 30
 lines background.svg 30
 lines background-nologo.svg 30
@@ -258,8 +258,8 @@ EOF
     done << EOF
 futureprototype 4x3 40
 futureprototype 16x9 40
-moonlight 4x3 30
-moonlight 16x9 30
+moonlight 4x3 80
+moonlight 16x9 80
 softwaves 4x3 30
 softwaves 16x9 30
 lines 4x3 30
